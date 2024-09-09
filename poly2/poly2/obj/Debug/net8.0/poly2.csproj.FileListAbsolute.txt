@@ -1,0 +1,14 @@
+C:\Users\MarshevaAA\source\repos\poly2\poly2\bin\Debug\net8.0\poly2.exe
+C:\Users\MarshevaAA\source\repos\poly2\poly2\bin\Debug\net8.0\poly2.deps.json
+C:\Users\MarshevaAA\source\repos\poly2\poly2\bin\Debug\net8.0\poly2.runtimeconfig.json
+C:\Users\MarshevaAA\source\repos\poly2\poly2\bin\Debug\net8.0\poly2.dll
+C:\Users\MarshevaAA\source\repos\poly2\poly2\bin\Debug\net8.0\poly2.pdb
+C:\Users\MarshevaAA\source\repos\poly2\poly2\obj\Debug\net8.0\poly2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarshevaAA\source\repos\poly2\poly2\obj\Debug\net8.0\poly2.AssemblyInfoInputs.cache
+C:\Users\MarshevaAA\source\repos\poly2\poly2\obj\Debug\net8.0\poly2.AssemblyInfo.cs
+C:\Users\MarshevaAA\source\repos\poly2\poly2\obj\Debug\net8.0\poly2.csproj.CoreCompileInputs.cache
+C:\Users\MarshevaAA\source\repos\poly2\poly2\obj\Debug\net8.0\poly2.dll
+C:\Users\MarshevaAA\source\repos\poly2\poly2\obj\Debug\net8.0\refint\poly2.dll
+C:\Users\MarshevaAA\source\repos\poly2\poly2\obj\Debug\net8.0\poly2.pdb
+C:\Users\MarshevaAA\source\repos\poly2\poly2\obj\Debug\net8.0\poly2.genruntimeconfig.cache
+C:\Users\MarshevaAA\source\repos\poly2\poly2\obj\Debug\net8.0\ref\poly2.dll
