@@ -1,0 +1,14 @@
+C:\Users\MarshevaAA\source\repos\polymorfism\polymorfism\bin\Debug\net8.0\polymorfism.exe
+C:\Users\MarshevaAA\source\repos\polymorfism\polymorfism\bin\Debug\net8.0\polymorfism.deps.json
+C:\Users\MarshevaAA\source\repos\polymorfism\polymorfism\bin\Debug\net8.0\polymorfism.runtimeconfig.json
+C:\Users\MarshevaAA\source\repos\polymorfism\polymorfism\bin\Debug\net8.0\polymorfism.dll
+C:\Users\MarshevaAA\source\repos\polymorfism\polymorfism\bin\Debug\net8.0\polymorfism.pdb
+C:\Users\MarshevaAA\source\repos\polymorfism\polymorfism\obj\Debug\net8.0\polymorfism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarshevaAA\source\repos\polymorfism\polymorfism\obj\Debug\net8.0\polymorfism.AssemblyInfoInputs.cache
+C:\Users\MarshevaAA\source\repos\polymorfism\polymorfism\obj\Debug\net8.0\polymorfism.AssemblyInfo.cs
+C:\Users\MarshevaAA\source\repos\polymorfism\polymorfism\obj\Debug\net8.0\polymorfism.csproj.CoreCompileInputs.cache
+C:\Users\MarshevaAA\source\repos\polymorfism\polymorfism\obj\Debug\net8.0\polymorfism.dll
+C:\Users\MarshevaAA\source\repos\polymorfism\polymorfism\obj\Debug\net8.0\refint\polymorfism.dll
+C:\Users\MarshevaAA\source\repos\polymorfism\polymorfism\obj\Debug\net8.0\polymorfism.pdb
+C:\Users\MarshevaAA\source\repos\polymorfism\polymorfism\obj\Debug\net8.0\polymorfism.genruntimeconfig.cache
+C:\Users\MarshevaAA\source\repos\polymorfism\polymorfism\obj\Debug\net8.0\ref\polymorfism.dll
