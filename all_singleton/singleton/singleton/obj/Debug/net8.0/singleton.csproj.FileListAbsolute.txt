@@ -1,0 +1,14 @@
+C:\Users\MarshevaAA\source\repos\singleton\singleton\obj\Debug\net8.0\singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarshevaAA\source\repos\singleton\singleton\obj\Debug\net8.0\singleton.AssemblyInfoInputs.cache
+C:\Users\MarshevaAA\source\repos\singleton\singleton\obj\Debug\net8.0\singleton.AssemblyInfo.cs
+C:\Users\MarshevaAA\source\repos\singleton\singleton\obj\Debug\net8.0\singleton.csproj.CoreCompileInputs.cache
+C:\Users\MarshevaAA\source\repos\singleton\singleton\bin\Debug\net8.0\singleton.exe
+C:\Users\MarshevaAA\source\repos\singleton\singleton\bin\Debug\net8.0\singleton.deps.json
+C:\Users\MarshevaAA\source\repos\singleton\singleton\bin\Debug\net8.0\singleton.runtimeconfig.json
+C:\Users\MarshevaAA\source\repos\singleton\singleton\bin\Debug\net8.0\singleton.dll
+C:\Users\MarshevaAA\source\repos\singleton\singleton\bin\Debug\net8.0\singleton.pdb
+C:\Users\MarshevaAA\source\repos\singleton\singleton\obj\Debug\net8.0\singleton.dll
+C:\Users\MarshevaAA\source\repos\singleton\singleton\obj\Debug\net8.0\refint\singleton.dll
+C:\Users\MarshevaAA\source\repos\singleton\singleton\obj\Debug\net8.0\singleton.pdb
+C:\Users\MarshevaAA\source\repos\singleton\singleton\obj\Debug\net8.0\singleton.genruntimeconfig.cache
+C:\Users\MarshevaAA\source\repos\singleton\singleton\obj\Debug\net8.0\ref\singleton.dll

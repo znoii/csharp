@@ -1,0 +1,14 @@
+C:\Users\MarshevaAA\source\repos\singleton_extra1\singleton_extra1\bin\Debug\net8.0\singleton_extra1.exe
+C:\Users\MarshevaAA\source\repos\singleton_extra1\singleton_extra1\bin\Debug\net8.0\singleton_extra1.deps.json
+C:\Users\MarshevaAA\source\repos\singleton_extra1\singleton_extra1\bin\Debug\net8.0\singleton_extra1.runtimeconfig.json
+C:\Users\MarshevaAA\source\repos\singleton_extra1\singleton_extra1\bin\Debug\net8.0\singleton_extra1.dll
+C:\Users\MarshevaAA\source\repos\singleton_extra1\singleton_extra1\bin\Debug\net8.0\singleton_extra1.pdb
+C:\Users\MarshevaAA\source\repos\singleton_extra1\singleton_extra1\obj\Debug\net8.0\singleton_extra1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarshevaAA\source\repos\singleton_extra1\singleton_extra1\obj\Debug\net8.0\singleton_extra1.AssemblyInfoInputs.cache
+C:\Users\MarshevaAA\source\repos\singleton_extra1\singleton_extra1\obj\Debug\net8.0\singleton_extra1.AssemblyInfo.cs
+C:\Users\MarshevaAA\source\repos\singleton_extra1\singleton_extra1\obj\Debug\net8.0\singleton_extra1.csproj.CoreCompileInputs.cache
+C:\Users\MarshevaAA\source\repos\singleton_extra1\singleton_extra1\obj\Debug\net8.0\singleton_extra1.dll
+C:\Users\MarshevaAA\source\repos\singleton_extra1\singleton_extra1\obj\Debug\net8.0\refint\singleton_extra1.dll
+C:\Users\MarshevaAA\source\repos\singleton_extra1\singleton_extra1\obj\Debug\net8.0\singleton_extra1.pdb
+C:\Users\MarshevaAA\source\repos\singleton_extra1\singleton_extra1\obj\Debug\net8.0\singleton_extra1.genruntimeconfig.cache
+C:\Users\MarshevaAA\source\repos\singleton_extra1\singleton_extra1\obj\Debug\net8.0\ref\singleton_extra1.dll
