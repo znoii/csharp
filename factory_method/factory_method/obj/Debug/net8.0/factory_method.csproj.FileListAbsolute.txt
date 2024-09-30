@@ -1,0 +1,14 @@
+G:\c#\factory_method\factory_method\obj\Debug\net8.0\factory_method.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\factory_method\factory_method\obj\Debug\net8.0\factory_method.AssemblyInfoInputs.cache
+G:\c#\factory_method\factory_method\obj\Debug\net8.0\factory_method.AssemblyInfo.cs
+G:\c#\factory_method\factory_method\obj\Debug\net8.0\factory_method.csproj.CoreCompileInputs.cache
+G:\c#\factory_method\factory_method\bin\Debug\net8.0\factory_method.exe
+G:\c#\factory_method\factory_method\bin\Debug\net8.0\factory_method.deps.json
+G:\c#\factory_method\factory_method\bin\Debug\net8.0\factory_method.runtimeconfig.json
+G:\c#\factory_method\factory_method\bin\Debug\net8.0\factory_method.dll
+G:\c#\factory_method\factory_method\bin\Debug\net8.0\factory_method.pdb
+G:\c#\factory_method\factory_method\obj\Debug\net8.0\factory_method.dll
+G:\c#\factory_method\factory_method\obj\Debug\net8.0\refint\factory_method.dll
+G:\c#\factory_method\factory_method\obj\Debug\net8.0\factory_method.pdb
+G:\c#\factory_method\factory_method\obj\Debug\net8.0\factory_method.genruntimeconfig.cache
+G:\c#\factory_method\factory_method\obj\Debug\net8.0\ref\factory_method.dll
