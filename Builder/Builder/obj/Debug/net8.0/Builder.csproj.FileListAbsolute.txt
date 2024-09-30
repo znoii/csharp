@@ -1,0 +1,14 @@
+G:\c#\Builder\Builder\bin\Debug\net8.0\Builder.exe
+G:\c#\Builder\Builder\bin\Debug\net8.0\Builder.deps.json
+G:\c#\Builder\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+G:\c#\Builder\Builder\bin\Debug\net8.0\Builder.dll
+G:\c#\Builder\Builder\bin\Debug\net8.0\Builder.pdb
+G:\c#\Builder\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\Builder\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+G:\c#\Builder\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+G:\c#\Builder\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+G:\c#\Builder\Builder\obj\Debug\net8.0\Builder.dll
+G:\c#\Builder\Builder\obj\Debug\net8.0\refint\Builder.dll
+G:\c#\Builder\Builder\obj\Debug\net8.0\Builder.pdb
+G:\c#\Builder\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+G:\c#\Builder\Builder\obj\Debug\net8.0\ref\Builder.dll
