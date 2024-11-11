@@ -1,0 +1,14 @@
+C:\Users\MarshevaAA\source\repos\composite_pattern\composite_pattern\bin\Debug\net8.0\composite_pattern.exe
+C:\Users\MarshevaAA\source\repos\composite_pattern\composite_pattern\bin\Debug\net8.0\composite_pattern.deps.json
+C:\Users\MarshevaAA\source\repos\composite_pattern\composite_pattern\bin\Debug\net8.0\composite_pattern.runtimeconfig.json
+C:\Users\MarshevaAA\source\repos\composite_pattern\composite_pattern\bin\Debug\net8.0\composite_pattern.dll
+C:\Users\MarshevaAA\source\repos\composite_pattern\composite_pattern\bin\Debug\net8.0\composite_pattern.pdb
+C:\Users\MarshevaAA\source\repos\composite_pattern\composite_pattern\obj\Debug\net8.0\composite_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarshevaAA\source\repos\composite_pattern\composite_pattern\obj\Debug\net8.0\composite_pattern.AssemblyInfoInputs.cache
+C:\Users\MarshevaAA\source\repos\composite_pattern\composite_pattern\obj\Debug\net8.0\composite_pattern.AssemblyInfo.cs
+C:\Users\MarshevaAA\source\repos\composite_pattern\composite_pattern\obj\Debug\net8.0\composite_pattern.csproj.CoreCompileInputs.cache
+C:\Users\MarshevaAA\source\repos\composite_pattern\composite_pattern\obj\Debug\net8.0\composite_pattern.dll
+C:\Users\MarshevaAA\source\repos\composite_pattern\composite_pattern\obj\Debug\net8.0\refint\composite_pattern.dll
+C:\Users\MarshevaAA\source\repos\composite_pattern\composite_pattern\obj\Debug\net8.0\composite_pattern.pdb
+C:\Users\MarshevaAA\source\repos\composite_pattern\composite_pattern\obj\Debug\net8.0\composite_pattern.genruntimeconfig.cache
+C:\Users\MarshevaAA\source\repos\composite_pattern\composite_pattern\obj\Debug\net8.0\ref\composite_pattern.dll
