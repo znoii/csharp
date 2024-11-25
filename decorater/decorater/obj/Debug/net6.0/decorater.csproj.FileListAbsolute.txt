@@ -1,0 +1,15 @@
+C:\Users\marsh\source\repos\decorater\decorater\bin\Debug\net6.0\decorater.exe
+C:\Users\marsh\source\repos\decorater\decorater\bin\Debug\net6.0\decorater.deps.json
+C:\Users\marsh\source\repos\decorater\decorater\bin\Debug\net6.0\decorater.runtimeconfig.json
+C:\Users\marsh\source\repos\decorater\decorater\bin\Debug\net6.0\decorater.dll
+C:\Users\marsh\source\repos\decorater\decorater\bin\Debug\net6.0\decorater.pdb
+C:\Users\marsh\source\repos\decorater\decorater\obj\Debug\net6.0\decorater.csproj.AssemblyReference.cache
+C:\Users\marsh\source\repos\decorater\decorater\obj\Debug\net6.0\decorater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marsh\source\repos\decorater\decorater\obj\Debug\net6.0\decorater.AssemblyInfoInputs.cache
+C:\Users\marsh\source\repos\decorater\decorater\obj\Debug\net6.0\decorater.AssemblyInfo.cs
+C:\Users\marsh\source\repos\decorater\decorater\obj\Debug\net6.0\decorater.csproj.CoreCompileInputs.cache
+C:\Users\marsh\source\repos\decorater\decorater\obj\Debug\net6.0\decorater.dll
+C:\Users\marsh\source\repos\decorater\decorater\obj\Debug\net6.0\refint\decorater.dll
+C:\Users\marsh\source\repos\decorater\decorater\obj\Debug\net6.0\decorater.pdb
+C:\Users\marsh\source\repos\decorater\decorater\obj\Debug\net6.0\decorater.genruntimeconfig.cache
+C:\Users\marsh\source\repos\decorater\decorater\obj\Debug\net6.0\ref\decorater.dll
