@@ -1,0 +1,14 @@
+C:\Users\MarshevaAA\source\repos\flyweight\flyweight\bin\Debug\net8.0\flyweight.exe
+C:\Users\MarshevaAA\source\repos\flyweight\flyweight\bin\Debug\net8.0\flyweight.deps.json
+C:\Users\MarshevaAA\source\repos\flyweight\flyweight\bin\Debug\net8.0\flyweight.runtimeconfig.json
+C:\Users\MarshevaAA\source\repos\flyweight\flyweight\bin\Debug\net8.0\flyweight.dll
+C:\Users\MarshevaAA\source\repos\flyweight\flyweight\bin\Debug\net8.0\flyweight.pdb
+C:\Users\MarshevaAA\source\repos\flyweight\flyweight\obj\Debug\net8.0\flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarshevaAA\source\repos\flyweight\flyweight\obj\Debug\net8.0\flyweight.AssemblyInfoInputs.cache
+C:\Users\MarshevaAA\source\repos\flyweight\flyweight\obj\Debug\net8.0\flyweight.AssemblyInfo.cs
+C:\Users\MarshevaAA\source\repos\flyweight\flyweight\obj\Debug\net8.0\flyweight.csproj.CoreCompileInputs.cache
+C:\Users\MarshevaAA\source\repos\flyweight\flyweight\obj\Debug\net8.0\flyweight.dll
+C:\Users\MarshevaAA\source\repos\flyweight\flyweight\obj\Debug\net8.0\refint\flyweight.dll
+C:\Users\MarshevaAA\source\repos\flyweight\flyweight\obj\Debug\net8.0\flyweight.pdb
+C:\Users\MarshevaAA\source\repos\flyweight\flyweight\obj\Debug\net8.0\flyweight.genruntimeconfig.cache
+C:\Users\MarshevaAA\source\repos\flyweight\flyweight\obj\Debug\net8.0\ref\flyweight.dll
