@@ -1,0 +1,14 @@
+C:\Users\MarshevaAA\source\repos\chain_of_responsibility\chain_of_responsibility\bin\Debug\net8.0\chain_of_responsibility.exe
+C:\Users\MarshevaAA\source\repos\chain_of_responsibility\chain_of_responsibility\bin\Debug\net8.0\chain_of_responsibility.deps.json
+C:\Users\MarshevaAA\source\repos\chain_of_responsibility\chain_of_responsibility\bin\Debug\net8.0\chain_of_responsibility.runtimeconfig.json
+C:\Users\MarshevaAA\source\repos\chain_of_responsibility\chain_of_responsibility\bin\Debug\net8.0\chain_of_responsibility.dll
+C:\Users\MarshevaAA\source\repos\chain_of_responsibility\chain_of_responsibility\bin\Debug\net8.0\chain_of_responsibility.pdb
+C:\Users\MarshevaAA\source\repos\chain_of_responsibility\chain_of_responsibility\obj\Debug\net8.0\chain_of_responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarshevaAA\source\repos\chain_of_responsibility\chain_of_responsibility\obj\Debug\net8.0\chain_of_responsibility.AssemblyInfoInputs.cache
+C:\Users\MarshevaAA\source\repos\chain_of_responsibility\chain_of_responsibility\obj\Debug\net8.0\chain_of_responsibility.AssemblyInfo.cs
+C:\Users\MarshevaAA\source\repos\chain_of_responsibility\chain_of_responsibility\obj\Debug\net8.0\chain_of_responsibility.csproj.CoreCompileInputs.cache
+C:\Users\MarshevaAA\source\repos\chain_of_responsibility\chain_of_responsibility\obj\Debug\net8.0\chain_of_responsibility.dll
+C:\Users\MarshevaAA\source\repos\chain_of_responsibility\chain_of_responsibility\obj\Debug\net8.0\refint\chain_of_responsibility.dll
+C:\Users\MarshevaAA\source\repos\chain_of_responsibility\chain_of_responsibility\obj\Debug\net8.0\chain_of_responsibility.pdb
+C:\Users\MarshevaAA\source\repos\chain_of_responsibility\chain_of_responsibility\obj\Debug\net8.0\chain_of_responsibility.genruntimeconfig.cache
+C:\Users\MarshevaAA\source\repos\chain_of_responsibility\chain_of_responsibility\obj\Debug\net8.0\ref\chain_of_responsibility.dll
