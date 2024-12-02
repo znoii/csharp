@@ -1,0 +1,14 @@
+C:\Users\MarshevaAA\source\repos\command_pattern\command_pattern\bin\Debug\net8.0\command_pattern.exe
+C:\Users\MarshevaAA\source\repos\command_pattern\command_pattern\bin\Debug\net8.0\command_pattern.deps.json
+C:\Users\MarshevaAA\source\repos\command_pattern\command_pattern\bin\Debug\net8.0\command_pattern.runtimeconfig.json
+C:\Users\MarshevaAA\source\repos\command_pattern\command_pattern\bin\Debug\net8.0\command_pattern.dll
+C:\Users\MarshevaAA\source\repos\command_pattern\command_pattern\bin\Debug\net8.0\command_pattern.pdb
+C:\Users\MarshevaAA\source\repos\command_pattern\command_pattern\obj\Debug\net8.0\command_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarshevaAA\source\repos\command_pattern\command_pattern\obj\Debug\net8.0\command_pattern.AssemblyInfoInputs.cache
+C:\Users\MarshevaAA\source\repos\command_pattern\command_pattern\obj\Debug\net8.0\command_pattern.AssemblyInfo.cs
+C:\Users\MarshevaAA\source\repos\command_pattern\command_pattern\obj\Debug\net8.0\command_pattern.csproj.CoreCompileInputs.cache
+C:\Users\MarshevaAA\source\repos\command_pattern\command_pattern\obj\Debug\net8.0\command_pattern.dll
+C:\Users\MarshevaAA\source\repos\command_pattern\command_pattern\obj\Debug\net8.0\refint\command_pattern.dll
+C:\Users\MarshevaAA\source\repos\command_pattern\command_pattern\obj\Debug\net8.0\command_pattern.pdb
+C:\Users\MarshevaAA\source\repos\command_pattern\command_pattern\obj\Debug\net8.0\command_pattern.genruntimeconfig.cache
+C:\Users\MarshevaAA\source\repos\command_pattern\command_pattern\obj\Debug\net8.0\ref\command_pattern.dll
