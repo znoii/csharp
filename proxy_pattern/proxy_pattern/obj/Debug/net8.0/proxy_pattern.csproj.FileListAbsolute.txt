@@ -1,0 +1,14 @@
+C:\Users\MarshevaAA\source\repos\proxy_pattern\proxy_pattern\bin\Debug\net8.0\proxy_pattern.exe
+C:\Users\MarshevaAA\source\repos\proxy_pattern\proxy_pattern\bin\Debug\net8.0\proxy_pattern.deps.json
+C:\Users\MarshevaAA\source\repos\proxy_pattern\proxy_pattern\bin\Debug\net8.0\proxy_pattern.runtimeconfig.json
+C:\Users\MarshevaAA\source\repos\proxy_pattern\proxy_pattern\bin\Debug\net8.0\proxy_pattern.dll
+C:\Users\MarshevaAA\source\repos\proxy_pattern\proxy_pattern\bin\Debug\net8.0\proxy_pattern.pdb
+C:\Users\MarshevaAA\source\repos\proxy_pattern\proxy_pattern\obj\Debug\net8.0\proxy_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarshevaAA\source\repos\proxy_pattern\proxy_pattern\obj\Debug\net8.0\proxy_pattern.AssemblyInfoInputs.cache
+C:\Users\MarshevaAA\source\repos\proxy_pattern\proxy_pattern\obj\Debug\net8.0\proxy_pattern.AssemblyInfo.cs
+C:\Users\MarshevaAA\source\repos\proxy_pattern\proxy_pattern\obj\Debug\net8.0\proxy_pattern.csproj.CoreCompileInputs.cache
+C:\Users\MarshevaAA\source\repos\proxy_pattern\proxy_pattern\obj\Debug\net8.0\proxy_pattern.dll
+C:\Users\MarshevaAA\source\repos\proxy_pattern\proxy_pattern\obj\Debug\net8.0\refint\proxy_pattern.dll
+C:\Users\MarshevaAA\source\repos\proxy_pattern\proxy_pattern\obj\Debug\net8.0\proxy_pattern.pdb
+C:\Users\MarshevaAA\source\repos\proxy_pattern\proxy_pattern\obj\Debug\net8.0\proxy_pattern.genruntimeconfig.cache
+C:\Users\MarshevaAA\source\repos\proxy_pattern\proxy_pattern\obj\Debug\net8.0\ref\proxy_pattern.dll
