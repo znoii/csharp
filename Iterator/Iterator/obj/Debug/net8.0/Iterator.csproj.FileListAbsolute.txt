@@ -1,0 +1,14 @@
+C:\Users\MarshevaAA\source\repos\Iterator\Iterator\bin\Debug\net8.0\Iterator.exe
+C:\Users\MarshevaAA\source\repos\Iterator\Iterator\bin\Debug\net8.0\Iterator.deps.json
+C:\Users\MarshevaAA\source\repos\Iterator\Iterator\bin\Debug\net8.0\Iterator.runtimeconfig.json
+C:\Users\MarshevaAA\source\repos\Iterator\Iterator\bin\Debug\net8.0\Iterator.dll
+C:\Users\MarshevaAA\source\repos\Iterator\Iterator\bin\Debug\net8.0\Iterator.pdb
+C:\Users\MarshevaAA\source\repos\Iterator\Iterator\obj\Debug\net8.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarshevaAA\source\repos\Iterator\Iterator\obj\Debug\net8.0\Iterator.AssemblyInfoInputs.cache
+C:\Users\MarshevaAA\source\repos\Iterator\Iterator\obj\Debug\net8.0\Iterator.AssemblyInfo.cs
+C:\Users\MarshevaAA\source\repos\Iterator\Iterator\obj\Debug\net8.0\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\MarshevaAA\source\repos\Iterator\Iterator\obj\Debug\net8.0\Iterator.dll
+C:\Users\MarshevaAA\source\repos\Iterator\Iterator\obj\Debug\net8.0\refint\Iterator.dll
+C:\Users\MarshevaAA\source\repos\Iterator\Iterator\obj\Debug\net8.0\Iterator.pdb
+C:\Users\MarshevaAA\source\repos\Iterator\Iterator\obj\Debug\net8.0\Iterator.genruntimeconfig.cache
+C:\Users\MarshevaAA\source\repos\Iterator\Iterator\obj\Debug\net8.0\ref\Iterator.dll
